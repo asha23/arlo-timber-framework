@@ -1,8 +1,8 @@
 {
-    "name": "arlo-base-wordpress",
+    "name": "arlo-timber-base-wordpress",
     "type": "project",
     "license": "MIT",
-    "description": "Arlo Wordpress base installation",
+    "description": "Arlo Wordpress base installation using Timber/Twig",
     "authors": [{
         "name": "Ash Whiting",
         "email": "ash_whiting@hotmail.com"
@@ -20,10 +20,10 @@
             "package": {
                 "name": "asha23/wp-seed",
                 "type": "wordpress-theme",
-                "version": "0.4.0",
+                "version": "*",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/asha23/wp-seed/archive/v0.4.0.zip"
+                    "url": "https://github.com/asha23/wp-seed-timber/archive/master.zip"
                 }
             }
         },
@@ -69,6 +69,7 @@
         "wpackagist-plugin/simple-image-sizes": "*",
         "wpackagist-plugin/post-terms-order": "*",
         "wpackagist-plugin/wordpress-seo": "*",
+		"wpackagist-plugin/timber-library": "*",
         "wpackagist-plugin/advanced-custom-fields-table-field": "*",
 		"advanced-custom-fields/advanced-custom-fields-pro": "*",
 		"wp-sync-db/wp-sync-db": "*",
