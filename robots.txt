@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /web/wp/wp-admin
+Allow: /web/wp/wp-includes
+Disallow: /web/wp/wp-content/plugins
+Disallow: /web/wp/wp-content/cache
+Disallow: /web/comments
+Disallow: */trackback
+Disallow: */comments
+Disallow: /web/wp/wp-content/uploads
+
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*
+
+# digg mirror
+User-agent: duggmirror
+Disallow: /
+
+#Sitemap: http://www.example.com/sitemap.xml
