@@ -3,9 +3,9 @@
 
 This assumes prior knowledge of how to set up WordPress themes. Feel free to make improvements to this.
 
-It's very (very) loosely based on Bedrock, but with a much more simplified method for differentiating between dev/staging/production databases. I found that for most of my working practice I simply didn't need a lot of what Bedrock offered and decided to use it's methodologies as a starting point, but keep it a hell of a lot simpler.
+It's very (very) loosely based on how Bedrock approach things, but with a much more simplified method for differentiating between dev/staging/production databases.
 
-If you like Bedrock, then great! It's pretty awesome, so fill your boots. But if you find it a little overcomplicated and a tiny bit bloated like I do, then this framework/approach might be more up your alley.
+If you like Bedrock, then great! It's pretty awesome, so fill your boots. But if, like me, you find it a little over complicated, then this framework/approach might be more up your alley as I've deliberately tried to keep it all really simple.
 
 You can get up and running with a complete WordPress environment in about a minute.
 
@@ -24,7 +24,6 @@ You can get up and running with a complete WordPress environment in about a minu
 * Get started.
 
 You can alternatively create a fork of this framework. If you want the composer file to stay up to date.
-
 
 Requirements
 ============
@@ -55,7 +54,6 @@ Alternatively, just use MAMP. Or something like https://www.themejuice.it, which
 
 Vagrant is the recommended method as it keeps everything self contained.
 
-
 ## .env-example file
 
 There is a .env-example file in the root. You should fill out the relevant information in this file and then re-save it as .env. Once you have done this, you can then edit the web/wp-config.php file and add salts, or do other configurations.
@@ -71,7 +69,6 @@ This installation by default ignores everything but your theme. You will need to
 If you can't do this simply upload the files as required. I decided to not include all the WordPress stuff in the repo because in the most part it's an uneccesary step really.
 
 Feel free to edit the .gitignore file though if you want to change this.
-
 
 ## Notes about the seed theme
 
@@ -90,6 +87,6 @@ The content folder contains all the themes, plugins and files for the front-end.
 
 The wp folder is the base WordPress installation - You should not change anything in here.
 
+### Arlo? What?
 
-
-Arlo is the name of my 10 month old son.
+Arlo is the name of my 10 month old son. So this is dedicated to him, the little monster.
