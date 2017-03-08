@@ -62,6 +62,8 @@ There is a .env-example file in the root. You should fill out the relevant infor
 
 There is information for 3 environments contained here, development, production and staging. Filling out this information correctly will make sites easier to deploy as it will auto-detect which database to use depending on your environment.
 
+Add your ACF Pro key to here as well.
+
 ## Notes on the .gitignore.
 
 This installation by default ignores everything but your theme. You will need to create a deployment of wordpress on your production environment and run composer install.
