@@ -1,8 +1,8 @@
 {
-    "name": "arlo-timber-base-wordpress",
+    "name": "timber-base-wordpress",
     "type": "project",
     "license": "MIT",
-    "description": "Arlo Wordpress base installation using Timber/Twig",
+    "description": "Wordpress base installation using Timber/Twig",
     "authors": [{
         "name": "Ash Whiting",
         "email": "ash_whiting@hotmail.com"
