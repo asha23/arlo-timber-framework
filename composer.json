@@ -23,7 +23,7 @@
                 "version": "*",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/asha23/wp-seed-timber/archive/master.zip"
+                    "url": "https://github.com/asha23/wp-seed-timber/archive/0.1.0.zip"
                 }
             }
         },
