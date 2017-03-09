@@ -18,7 +18,7 @@
         "theme": {
             "type": "package",
             "package": {
-                "name": "asha23/wp-seed",
+                "name": "asha23/wp-seed-timber",
                 "type": "wordpress-theme",
                 "version": "1",
                 "dist": {
@@ -73,7 +73,7 @@
         "wpackagist-plugin/advanced-custom-fields-table-field": "*",
 		"advanced-custom-fields/advanced-custom-fields-pro": "*",
 		"wp-sync-db/wp-sync-db": "*",
-        "asha23/wp-seed": "*"
+        "asha23/wp-seed-timber": "*"
     },
     "extra": {
         "installer-paths": {
