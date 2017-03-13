@@ -1,6 +1,8 @@
 # Arlo Timber
 ### A Wordpress/Composer framework. Using Timber/Twig for templating
 
+[![GitHub issues](https://img.shields.io/github/issues/asha23/arlo-timber-framework.svg)](https://github.com/asha23/arlo-timber-framework/issues) [![GitHub forks](https://img.shields.io/github/forks/asha23/arlo-timber-framework.svg)](https://github.com/asha23/arlo-timber-framework/network) [![GitHub stars](https://img.shields.io/github/stars/asha23/arlo-timber-framework.svg)](https://github.com/asha23/arlo-timber-framework/stargazers) [![Twitter](https://img.shields.io/twitter/url/https/github.com/asha23/arlo-timber-framework.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+
 This assumes prior knowledge of how to set up WordPress themes. Feel free to make improvements to this.
 
 It's very (very) loosely based on how Bedrock approach things, but with a much more simplified method for differentiating between dev/staging/production databases.
