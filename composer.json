@@ -20,7 +20,7 @@
             "package": {
                 "name": "asha23/wp-seed-timber",
                 "type": "wordpress-theme",
-                "version": "1",
+                "version": "1.0.5",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/asha23/wp-seed-timber/archive/master.zip"
