@@ -91,4 +91,4 @@ The wp folder is the base WordPress installation - You should not change anythin
 
 ### Arlo? What?
 
-Arlo is the name of my 10 month old son. So this is dedicated to him, the little monster.
+Arlo is the name of my son. So this is dedicated to him, the little monster.
