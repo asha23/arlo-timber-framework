@@ -20,7 +20,7 @@
             "package": {
                 "name": "asha23/wp-seed-timber",
                 "type": "wordpress-theme",
-                "version": "1.0.7",
+                "version": "1.0.8",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/asha23/wp-seed-timber/archive/v1.0.8.zip"
@@ -31,7 +31,7 @@
 			"type": "package",
 			"package": {
 				"name": "advanced-custom-fields/advanced-custom-fields-pro",
-				"version": "5.5.7",
+				"version": "5.6.6",
 				"type": "wordpress-plugin",
 				"dist": {
 					"type": "zip",
@@ -64,10 +64,8 @@
 		"oscarotero/env": "^1.0",
         "wpackagist-plugin/tinymce-advanced": "*",
         "wpackagist-plugin/yoast-seo-acf-analysis": "*",
-        "wpackagist-plugin/post-types-order": "*",
         "wpackagist-plugin/duplicate-post": "*",
         "wpackagist-plugin/simple-image-sizes": "*",
-        "wpackagist-plugin/post-terms-order": "*",
         "wpackagist-plugin/wordpress-seo": "*",
 		"wpackagist-plugin/timber-library": "*",
         "wpackagist-plugin/advanced-custom-fields-table-field": "*",
