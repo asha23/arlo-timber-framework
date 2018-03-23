@@ -2,7 +2,7 @@
     "name": "asha23/arlo-timber-framework",
     "type": "project",
     "license": "MIT",
-    "description": "Wordpress base installation using Timber/Twig",
+    "description": "Wordpress base installation using Timber/Twig - Helps you get up and running in minutes.",
     "authors": [{
         "name": "Ash Whiting",
         "email": "ash_whiting@hotmail.com"
