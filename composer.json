@@ -69,7 +69,7 @@
         "wpackagist-plugin/wordpress-seo": "*",
 	"wpackagist-plugin/timber-library": "*",
 	"advanced-custom-fields/advanced-custom-fields-pro": "*",
-	"wp-sync-db/wp-sync-db": "*",
+	"wpackagist-plugin/wp-migrate-db": "*"
         "asha23/wp-seed-timber": "*"
     },
     "extra": {
