@@ -51,7 +51,7 @@
 				"version": "1.5",
 				"dist": {
 					"type": "zip",
-					"url": "https://github.com/wp-sync-db/wp-sync-db/archive/1.5.zip"
+					"url": "https://github.com/corysimmons/wp-sync-db/archive/1.6.zip"
 				}
 			}
 		}
@@ -69,7 +69,7 @@
         "wpackagist-plugin/wordpress-seo": "*",
 	"wpackagist-plugin/timber-library": "*",
 	"advanced-custom-fields/advanced-custom-fields-pro": "*",
-	"wpackagist-plugin/wp-migrate-db": "*",
+	"wp-sync-db/wp-sync-db": "*",
         "asha23/wp-seed-timber": "*"
     },
     "extra": {
