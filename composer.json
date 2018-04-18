@@ -20,10 +20,10 @@
             "package": {
                 "name": "asha23/wp-seed-timber",
                 "type": "wordpress-theme",
-                "version": "1.2.4",
+                "version": "1.2.5",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/asha23/wp-seed-timber/archive/v1.2.4.zip"
+                    "url": "https://github.com/asha23/wp-seed-timber/archive/v1.2.5.zip"
                 }
             }
         },
@@ -69,7 +69,7 @@
         "wpackagist-plugin/wordpress-seo": "*",
 	"wpackagist-plugin/timber-library": "*",
 	"advanced-custom-fields/advanced-custom-fields-pro": "*",
-	"wpackagist-plugin/wp-migrate-db": "*"
+	"wpackagist-plugin/wp-migrate-db": "*",
         "asha23/wp-seed-timber": "*"
     },
     "extra": {
