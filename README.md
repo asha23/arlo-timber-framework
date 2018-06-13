@@ -31,9 +31,11 @@ You can get up and running with a complete WordPress environment in about a minu
 
 ## Use Composer to install
 
-
-
 To use the package file
+
+```
+composer create-project asha23/arlo-timber-framework your-folder-name
+```
 
 Requirements
 ============
