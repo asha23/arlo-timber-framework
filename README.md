@@ -1,6 +1,10 @@
 # Arlo Timber
 ### A Wordpress/Composer framework. Using Timber/Twig for templating
 
+```
+composer create-project asha23/arlo-timber-framework your-folder-name
+```
+
 [![GitHub issues](https://img.shields.io/github/issues/asha23/arlo-timber-framework.svg)](https://github.com/asha23/arlo-timber-framework/issues) [![GitHub forks](https://img.shields.io/github/forks/asha23/arlo-timber-framework.svg)](https://github.com/asha23/arlo-timber-framework/network) [![GitHub stars](https://img.shields.io/github/stars/asha23/arlo-timber-framework.svg)](https://github.com/asha23/arlo-timber-framework/stargazers)
 
 This assumes prior knowledge of how to set up WordPress themes. Feel free to make improvements to this.
@@ -27,9 +31,7 @@ You can get up and running with a complete WordPress environment in about a minu
 
 ## Use Composer to install
 
-```
-composer create-project asha23/arlo-timber-framework your-folder-name
-```
+
 
 To use the package file
 
