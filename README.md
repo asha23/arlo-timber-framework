@@ -25,6 +25,8 @@ You can get up and running with a complete WordPress environment in about a minu
 * Send an initial commit to your repository
 * Get started.
 
+## Use Composer to install
+
 ```
 composer create-project asha23/arlo-timber-framework your-folder-name
 ```
@@ -34,7 +36,7 @@ To use the package file
 Requirements
 ============
 
-You should get a license for Advanced Custom Fields pro for this framework.
+You should get a license for Advanced Custom Fields pro for this framework as it is a key part of how it works.
 
 Getting started
 ===============
@@ -62,7 +64,7 @@ Vagrant is the recommended method as it keeps everything self contained.
 
 ## .env-example file
 
-There is a .env-example file in the root. You should fill out the relevant information in this file and then re-save it as .env. Once you have done this, you can then edit the web/wp-config.php file and add salts, or do other configurations.
+There is a ```.env-example``` file in the root. You should fill out the relevant information in this file and then re-save it as ```.env```. Once you have done this, you can then edit the web/wp-config.php file and add salts, or do other configurations.
 
 There is information for 3 environments contained here, development, production and staging. Filling out this information correctly will make sites easier to deploy as it will auto-detect which database to use depending on your environment.
 
@@ -74,7 +76,7 @@ This installation by default ignores everything but your theme. You will need to
 
 If you can't do this simply upload the files as required. I decided to not include all the WordPress stuff in the repo because in the most part it's an uneccesary step really.
 
-Feel free to edit the .gitignore file though if you want to change this.
+Feel free to edit the ```.gitignore``` file though if you want to change this.
 
 ## Notes about the seed theme
 
